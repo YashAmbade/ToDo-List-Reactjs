@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ToDo-List-Reactjs/static/css/main.33452acf.css",
+    "main.js": "/ToDo-List-Reactjs/static/js/main.7a4ecf0d.js",
+    "static/js/787.41a206eb.chunk.js": "/ToDo-List-Reactjs/static/js/787.41a206eb.chunk.js",
+    "static/media/three_white_flower_pots_in_white_background_hd_white_aesthetic.jpg": "/ToDo-List-Reactjs/static/media/three_white_flower_pots_in_white_background_hd_white_aesthetic.43dc6d4538a29b99a22e.jpg",
+    "index.html": "/ToDo-List-Reactjs/index.html",
+    "main.33452acf.css.map": "/ToDo-List-Reactjs/static/css/main.33452acf.css.map",
+    "main.7a4ecf0d.js.map": "/ToDo-List-Reactjs/static/js/main.7a4ecf0d.js.map",
+    "787.41a206eb.chunk.js.map": "/ToDo-List-Reactjs/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33452acf.css",
+    "static/js/main.7a4ecf0d.js"
+  ]
+}
